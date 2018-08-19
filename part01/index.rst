@@ -12,3 +12,5 @@ Part 1. Discovery Outline
    /part01/advantages_of_metatron_discovery
    /part01/structure_of_metatron_discovery
    /part01/relational_olap_vs_multidimensional_olap
+
+
